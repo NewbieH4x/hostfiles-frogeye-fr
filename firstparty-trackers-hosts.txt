@@ -1,4 +1,4 @@
-test ci job# First-party trackers host list
+# First-party trackers host list
 # Variant: first-party trackers
 #
 # About first-party trackers: https://hostfiles.frogeye.fr/#whats-a-first-party-tracker
