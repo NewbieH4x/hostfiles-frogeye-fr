@@ -1,5 +1,8 @@
 name: CI
-on: [workflow_dispatch, repository_dispatch]
+on:
+  schedule:
+    - cron: 0 0 * * *
+  workflow_dispatch:
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -8,9 +11,9 @@ jobs:
       - name: Update repo from remote URL
         run: |
           wget https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt -O ~/firstparty-trackers-hosts.txt
-          NEW_MD5=$(md5sum ~/firstparty-trackers-hosts.txt)
+          NEW_MD5=$(md5sum ~/firstparty-trackers-hosts.txt | awk '{ print $1 }')
           echo New MD5 is "$NEW_MD5"
-          OLD_MD5=$(md5sum firstparty-trackers-hosts.txt)
+          OLD_MD5=$(md5sum firstparty-trackers-hosts.txt | awk '{ print $1 }')
           echo Old MD5 is "$OLD_MD5"
           if [[ "$OLD_MD5" == "$NEW_MD5" ]]; then
             echo File already up to date
