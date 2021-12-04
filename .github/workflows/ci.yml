@@ -12,7 +12,7 @@ jobs:
           echo New MD5 is "$NEW_MD5"
           OLD_MD5=$(md5sum firstparty-trackers-hosts.txt)
           echo Old MD5 is "$OLD_MD5"
-          if [ "$OLD_MD5" = "$NEW_MD5" ]; then
+          if [[ "$OLD_MD5" == "$NEW_MD5" ]]; then
             echo File already up to date
           else
             mv ~/firstparty-trackers-hosts.txt firstparty-trackers-hosts.txt
