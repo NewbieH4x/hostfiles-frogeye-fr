@@ -1,0 +1,26 @@
+name: CI
+on: [workflow_dispatch, repository_dispatch]
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update repo from remote URL
+        run: |
+          wget https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt -O ~/firstparty-trackers-hosts.txt
+          NEW_MD5=$(md5sum ~/firstparty-trackers-hosts.txt)
+          echo New MD5 is "$NEW_MD5"
+          OLD_MD5=$(md5sum firstparty-trackers-hosts.txt)
+          echo Old MD5 is "$OLD_MD5"
+          if [ "$OLD_MD5" = "$NEW_MD5" ]; then
+            echo File already up to date
+          else
+            mv ~/firstparty-trackers-hosts.txt firstparty-trackers-hosts.txt
+            git config --global user.name 'Github Actions'
+            git config --global user.email 'githubactions@users.noreply.github.com'
+            git add .
+            git commit -m"Updated from remote"
+            git push
+          fi
+          echo Done
+          
