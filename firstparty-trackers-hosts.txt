@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-05T01:51:27+01:00
+# List generation date: 2021-12-06T01:52:47+01:00
 # Oldest record: 2021-12-03T01:04:49+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1303118
+# Number of source DNS records: ~2E9 + 1300655
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14032, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11860, zones: 48
-# Output rules: hostnames: 14032
+# Subsequent rules: asns: 6, hostnames: 14048, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11874, zones: 48
+# Output rules: hostnames: 14048
 #
 
 0.0.0.0 01net.eulerian.net
@@ -1210,6 +1210,7 @@
 0.0.0.0 ckpxtt.justfly.com
 0.0.0.0 classeditori01.webtrekk.net
 0.0.0.0 click1.email.audacy.com
+0.0.0.0 click1.e.radio.com
 0.0.0.0 click1.e.thechive.com
 0.0.0.0 click1.visitorlando.com
 0.0.0.0 click2.email.ticketmaster.com
@@ -1336,16 +1337,22 @@
 0.0.0.0 compare.bedroomvillas.com
 0.0.0.0 compare.easyvoyage.com
 0.0.0.0 compare.flighthub.com
+0.0.0.0 compare.fly4free.com
 0.0.0.0 compare.hotelsone.com
 0.0.0.0 compare-im.ostrovok.ru
 0.0.0.0 compare-im.trip101.com
+0.0.0.0 compare-im.virail.com
 0.0.0.0 compare-im.zenhotels.com
 0.0.0.0 compare.jetcost.com
 0.0.0.0 compare.justfly.com
+0.0.0.0 compare.liligo.com
 0.0.0.0 compare.loli-pop.co.uk
 0.0.0.0 compare.minube.com
 0.0.0.0 compare.rentbyowner.com
+0.0.0.0 compare.reservations.com
+0.0.0.0 compare.studentuniverse.com
 0.0.0.0 compare.traveldealcomparisons.com
+0.0.0.0 compare.tripcanvas.co
 0.0.0.0 compare.triphobo.com
 0.0.0.0 compare.wanderu.com
 0.0.0.0 compteczam-fr.eulerian.net
@@ -1403,6 +1410,7 @@
 0.0.0.0 consent.techtarget.com
 0.0.0.0 consent.thecomet.net
 0.0.0.0 consent.theneweuropean.co.uk
+0.0.0.0 consent.theresident.co.uk
 0.0.0.0 consent.theserverside.com
 0.0.0.0 consent.thewestonmercury.co.uk
 0.0.0.0 consent.whtimes.co.uk
@@ -1583,6 +1591,7 @@
 0.0.0.0 dbmyvl.apartmentfinder.com
 0.0.0.0 dbpbyh.americanas.com.br
 0.0.0.0 dc.audi.com
+0.0.0.0 dccfog.petco.com
 0.0.0.0 dcs.audi.com
 0.0.0.0 dcs.plussizetech.com
 0.0.0.0 ddbapp01.wt-eu02.net
@@ -1866,6 +1875,7 @@
 0.0.0.0 eb.informabi.com
 0.0.0.0 ebs.criteo.com
 0.0.0.0 ebs.da1.vip.prod.criteo.com
+0.0.0.0 ebs.par.vip.prod.criteo.com
 0.0.0.0 ebs.va1.vip.prod.criteo.com
 0.0.0.0 ecards01.webtrekk.net
 0.0.0.0 ecdn01.eulerian.net
@@ -2766,6 +2776,7 @@
 0.0.0.0 gbc8.fr.eu.criteo.com
 0.0.0.0 gbc8.hk.as.criteo.com
 0.0.0.0 gbc8.jp2.as.criteo.com
+0.0.0.0 gbc8.nl.eu.criteo.com
 0.0.0.0 gbc8.va.us.criteo.com
 0.0.0.0 gbc.criteo.com
 0.0.0.0 gblock.greenhousedata.com
@@ -3631,6 +3642,7 @@
 0.0.0.0 go.riosalado.edu
 0.0.0.0 go.rme360.com
 0.0.0.0 go.rockit.com
+0.0.0.0 go.rolanddg.com
 0.0.0.0 go.rosseto.com
 0.0.0.0 go.rosslynva.org
 0.0.0.0 go.roushcleantech.com
@@ -3817,6 +3829,7 @@
 0.0.0.0 go.unitedcp.com
 0.0.0.0 go.unitedtranzactions.com
 0.0.0.0 go.updates.iata.org
+0.0.0.0 go.usaretirement.org
 0.0.0.0 go.usatestprep.com
 0.0.0.0 go.us.bureauveritas.com
 0.0.0.0 go.uscad.com
@@ -3888,6 +3901,7 @@
 0.0.0.0 go.xentegra.com
 0.0.0.0 go.yretirement.org
 0.0.0.0 go.zacksadvantage.com
+0.0.0.0 go.zackspro.com
 0.0.0.0 go.zaner-bloser.com
 0.0.0.0 go.zayo.com
 0.0.0.0 go.zen.co.uk
@@ -11017,6 +11031,7 @@
 0.0.0.0 s4.parkeren-amsterdam.com
 0.0.0.0 s4.parkerenarnhem.nl
 0.0.0.0 s4.parkeren-denbosch.nl
+0.0.0.0 s4.parkeren-denhaag.nl
 0.0.0.0 s4.parkeren-haarlem.nl
 0.0.0.0 s4.parkerenindestad.nl
 0.0.0.0 s4.parkeren-maastricht.nl
@@ -13529,6 +13544,7 @@
 0.0.0.0 tdep.suncamp.it
 0.0.0.0 tdep.suncamp.nl
 0.0.0.0 tdep.suncamp.pl
+0.0.0.0 tdep.sunnycamp.dk
 0.0.0.0 tdep.teamnijhuis.com
 0.0.0.0 tdep.theofficeservice.com
 0.0.0.0 tdf1.admyjob.com
