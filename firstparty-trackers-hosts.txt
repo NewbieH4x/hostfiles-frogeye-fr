@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-07T01:53:12+01:00
+# List generation date: 2021-12-09T00:35:29+01:00
 # Oldest record: 2021-12-03T01:04:49+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1303303
+# Number of source DNS records: ~2E9 + 1447583
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14058, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11880, zones: 48
-# Output rules: hostnames: 14058
+# Subsequent rules: asns: 6, hostnames: 14065, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11883, zones: 48
+# Output rules: hostnames: 14065
 #
 
 0.0.0.0 01net.eulerian.net
@@ -1338,6 +1338,7 @@
 0.0.0.0 communications.ypo.org
 0.0.0.0 compaid.aosag.net
 0.0.0.0 compare.bedroomvillas.com
+0.0.0.0 compare.biletyplus.ru
 0.0.0.0 compare.easyvoyage.com
 0.0.0.0 compare.flighthub.com
 0.0.0.0 compare.fly4free.com
@@ -1358,6 +1359,7 @@
 0.0.0.0 compare.traveldealcomparisons.com
 0.0.0.0 compare.tripcanvas.co
 0.0.0.0 compare.triphobo.com
+0.0.0.0 compare.volaris.com
 0.0.0.0 compare.wanderu.com
 0.0.0.0 compteczam-fr.eulerian.net
 0.0.0.0 comptoirdescotionniers-com.eulerian.net
@@ -2760,13 +2762,17 @@
 0.0.0.0 gbc1.va.us.criteo.com
 0.0.0.0 gbc2.da.us.criteo.com
 0.0.0.0 gbc2.hk.as.criteo.com
+0.0.0.0 gbc2.nl.eu.criteo.com
 0.0.0.0 gbc2.va.us.criteo.com
 0.0.0.0 gbc3.da.us.criteo.com
 0.0.0.0 gbc3.hk.as.criteo.com
 0.0.0.0 gbc3.jp2.as.criteo.com
+0.0.0.0 gbc3.nl.eu.criteo.com
 0.0.0.0 gbc3.va.us.criteo.com
 0.0.0.0 gbc4.da.us.criteo.com
+0.0.0.0 gbc4.fr.eu.criteo.com
 0.0.0.0 gbc4.hk.as.criteo.com
+0.0.0.0 gbc4.nl.eu.criteo.com
 0.0.0.0 gbc4.va.us.criteo.com
 0.0.0.0 gbc5.da.us.criteo.com
 0.0.0.0 gbc5.hk.as.criteo.com
@@ -2814,6 +2820,7 @@
 0.0.0.0 geoproxy.am5.vip.prod.criteo.net
 0.0.0.0 geoproxy.criteo.net
 0.0.0.0 geoproxy.hk5.vip.prod.criteo.net
+0.0.0.0 geoproxy.par.vip.prod.criteo.net
 0.0.0.0 gerryweb02.webtrekk.net
 0.0.0.0 get.anthem.com
 0.0.0.0 get.diamanti.com
