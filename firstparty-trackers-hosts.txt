@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-09T00:35:29+01:00
+# List generation date: 2021-12-10T01:48:41+01:00
 # Oldest record: 2021-12-03T01:04:49+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1447583
+# Number of source DNS records: ~2E9 + 1301776
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14065, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11883, zones: 48
-# Output rules: hostnames: 14065
+# Subsequent rules: asns: 6, hostnames: 14066, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11884, zones: 48
+# Output rules: hostnames: 14066
 #
 
 0.0.0.0 01net.eulerian.net
@@ -1341,6 +1341,7 @@
 0.0.0.0 compare.biletyplus.ru
 0.0.0.0 compare.easyvoyage.com
 0.0.0.0 compare.flighthub.com
+0.0.0.0 compare.flightnetwork.com
 0.0.0.0 compare.fly4free.com
 0.0.0.0 compare.hotelsone.com
 0.0.0.0 compare-im.ostrovok.ru
