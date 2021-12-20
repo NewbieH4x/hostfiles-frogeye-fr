@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-19T01:52:54+01:00
+# List generation date: 2021-12-20T01:57:13+01:00
 # Oldest record: 2021-12-17T01:04:33+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1298601
+# Number of source DNS records: ~2E9 + 1297174
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 3462, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 2465, zones: 48
-# Output rules: hostnames: 3462
+# Subsequent rules: asns: 6, hostnames: 3482, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 2476, zones: 48
+# Output rules: hostnames: 3482
 #
 
 0.0.0.0 01net.eulerian.net
@@ -84,6 +84,7 @@
 0.0.0.0 a1069.actonsoftware.com
 0.0.0.0 a11058.actonservice.com
 0.0.0.0 a11426.actonservice.com
+0.0.0.0 a11468.actonservice.com
 0.0.0.0 a13104.actonservice.com
 0.0.0.0 a13605.actonservice.com
 0.0.0.0 a13709.actonservice.com
@@ -160,6 +161,7 @@
 0.0.0.0 a33748.actonsoftware.com
 0.0.0.0 a33830.actonsoftware.com
 0.0.0.0 a34403.actonsoftware.com
+0.0.0.0 a34436.actonservice.com
 0.0.0.0 a34520.actonsoftware.com
 0.0.0.0 a35353.actonsoftware.com
 0.0.0.0 a35415.actonservice.com
@@ -349,6 +351,7 @@
 0.0.0.0 aim.eulerian.com
 0.0.0.0 aim.eulerian.eu
 0.0.0.0 aim.eulerian.fr
+0.0.0.0 aim.eurelian.com
 0.0.0.0 ai.mist.com
 0.0.0.0 aip.actonservice.com
 0.0.0.0 airhelp.postaffiliatepro.com
@@ -882,6 +885,7 @@
 0.0.0.0 cmp.autotrader.co.uk
 0.0.0.0 cmp.cio.com
 0.0.0.0 cmp.cio.co.nz
+0.0.0.0 cmp.computerwoche.de
 0.0.0.0 cmp.computerworld.com
 0.0.0.0 cmp.computerworld.com.au
 0.0.0.0 cmp.csoonline.com
@@ -952,6 +956,7 @@
 0.0.0.0 compare.hotelsone.com
 0.0.0.0 compare-im.virail.com
 0.0.0.0 compare-im.zenhotels.com
+0.0.0.0 compare.jetcost.com
 0.0.0.0 compare.justfly.com
 0.0.0.0 compare.liligo.com
 0.0.0.0 compare.loli-pop.co.uk
@@ -1287,6 +1292,7 @@
 0.0.0.0 dnfluw.rhone.com
 0.0.0.0 dnsdelegation.io
 0.0.0.0 docmorris01.wt-eu02.net
+0.0.0.0 donate.cfbnj.org
 0.0.0.0 doodle-com.doodle.com
 0.0.0.0 dorsetecho-gb.dorsetecho.co.uk
 0.0.0.0 dot.discovery.org
@@ -1310,6 +1316,7 @@
 0.0.0.0 dvo.assurandme.fr
 0.0.0.0 dw7u.hotelsbarriere.com
 0.0.0.0 dynamic.criteo.com
+0.0.0.0 dynamic.da1.vip.prod.criteo.com
 0.0.0.0 dynamic.hk5.vip.prod.criteo.com
 0.0.0.0 dynamic.va1.vip.prod.criteo.com
 0.0.0.0 e2.hazeldenbettyford.org
@@ -1359,6 +1366,7 @@
 0.0.0.0 ebs.am5.vip.prod.criteo.com
 0.0.0.0 ebs.criteo.com
 0.0.0.0 ebs.par.vip.prod.criteo.com
+0.0.0.0 ebs.va1.vip.prod.criteo.com
 0.0.0.0 echo-news-gb.echo-news.co.uk
 0.0.0.0 ecm.email.descubrapg.com.br
 0.0.0.0 ecm.email.marylandlivecasino.com
@@ -1397,6 +1405,7 @@
 0.0.0.0 eit3.destinia.nl
 0.0.0.0 e.itgovernance.co.uk
 0.0.0.0 ejbbcf.finishline.com
+0.0.0.0 ek8.voyage-prive.com
 0.0.0.0 ekosjs.outdoorvoices.com
 0.0.0.0 elc1.energies.leclerc
 0.0.0.0 elcaminohospital.hrm.healthgrades.com
@@ -1505,6 +1514,7 @@
 0.0.0.0 e.marketing.dpd.co.uk
 0.0.0.0 embedded.pardot.com
 0.0.0.0 emerils.com.102.122.2o7.net
+0.0.0.0 e.mer.org
 0.0.0.0 emetrics.bose.com
 0.0.0.0 em.getsimpleprints.com
 0.0.0.0 eml.iiconferences.com
@@ -1816,8 +1826,11 @@
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
 0.0.0.0 gbc0.jp2.as.criteo.com
 0.0.0.0 gbc3.va.us.criteo.com
+0.0.0.0 gbc4.fr.eu.criteo.com
 0.0.0.0 gbc4.hk.as.criteo.com
+0.0.0.0 gbc4.nl.eu.criteo.com
 0.0.0.0 gbc6.va.us.criteo.com
+0.0.0.0 gbc7.va.us.criteo.com
 0.0.0.0 gbc8.fr.eu.criteo.com
 0.0.0.0 gbc8.nl.eu.criteo.com
 0.0.0.0 gbc.criteo.com
@@ -1838,8 +1851,10 @@
 0.0.0.0 geoproxy.criteo.net
 0.0.0.0 geoproxy.hk5.vip.prod.criteo.net
 0.0.0.0 geoproxy.jp2.vip.prod.criteo.net
+0.0.0.0 geoproxy.par.vip.prod.criteo.net
 0.0.0.0 get.anthem.com
 0.0.0.0 get.diamanti.com
+0.0.0.0 get.docusign.com
 0.0.0.0 get.enghouseinteractive.com
 0.0.0.0 get.freightos.com
 0.0.0.0 get.kronos.com
@@ -2324,6 +2339,7 @@
 0.0.0.0 go.iiba.org
 0.0.0.0 go.iland.com
 0.0.0.0 go.illuminateed.com
+0.0.0.0 go.ilpa.org
 0.0.0.0 go.imageskincare.com
 0.0.0.0 go.imd.org
 0.0.0.0 go.imodules.com
@@ -3198,6 +3214,7 @@
 0.0.0.0 rmp4.destinia.uy
 0.0.0.0 rup5.destinia.ru
 0.0.0.0 rvz9.destinia.co.ro
+0.0.0.0 s0.beyondonline.nl
 0.0.0.0 s101295317.hs.eloqua.com
 0.0.0.0 s1013191099.hs.eloqua.com
 0.0.0.0 s1019741931.hs.eloqua.com
@@ -3280,6 +3297,7 @@
 0.0.0.0 s4.parkeren-utrecht.nl
 0.0.0.0 s4.rotterdamparkeren.nl
 0.0.0.0 s522558593.hs.eloqua.com
+0.0.0.0 s566810826.hs.eloqua.com
 0.0.0.0 s600830862.hs.eloqua.com
 0.0.0.0 s602383747.hs.eloqua.com
 0.0.0.0 s609785623.hs.eloqua.com
@@ -3359,6 +3377,7 @@
 0.0.0.0 tdep.suncamp.it
 0.0.0.0 tdep.suncamp.nl
 0.0.0.0 tdep.suncamp.pl
+0.0.0.0 tdep.sunnycamp.dk
 0.0.0.0 tdep.teamnijhuis.com
 0.0.0.0 tdep.theofficeservice.com
 0.0.0.0 tdf1.admyjob.com
@@ -3439,6 +3458,7 @@
 0.0.0.0 voyage-prive-co-uk.eulerian.net
 0.0.0.0 voyage-prive-de.eulerian.net
 0.0.0.0 voyage-prive-es.eulerian.net
+0.0.0.0 voyage-prive.eulerian.net
 0.0.0.0 voyage-prive-it.eulerian.net
 0.0.0.0 voyages-prive-co-uk.eulerian.net
 0.0.0.0 voyages-sncf.eulerian.net
