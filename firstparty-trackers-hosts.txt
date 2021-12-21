@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-20T01:57:13+01:00
+# List generation date: 2021-12-21T01:57:55+01:00
 # Oldest record: 2021-12-17T01:04:33+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1297174
+# Number of source DNS records: ~2E9 + 1294732
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 3482, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 2476, zones: 48
-# Output rules: hostnames: 3482
+# Subsequent rules: asns: 6, hostnames: 3492, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 2481, zones: 48
+# Output rules: hostnames: 3492
 #
 
 0.0.0.0 01net.eulerian.net
@@ -49,6 +49,7 @@
 0.0.0.0 3s.next.eulerian.com
 0.0.0.0 428789396344161.mateti.net
 0.0.0.0 469816027576686.mateti.net
+0.0.0.0 4711.lineadirecta.com
 0.0.0.0 4711.vivaz.com
 0.0.0.0 4crowns.postaffiliatepro.com
 0.0.0.0 504684408060410.mateti.net
@@ -532,6 +533,7 @@
 0.0.0.0 b.criteo.com
 0.0.0.0 bc.trucks.nl
 0.0.0.0 bc.trucksnl.com
+0.0.0.0 b.da1.vip.prod.criteo.com
 0.0.0.0 beam.hlserve.com
 0.0.0.0 beat.thedrum.com
 0.0.0.0 beauzo.brilliantearth.com
@@ -560,6 +562,7 @@
 0.0.0.0 bidder.7xbid.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.hk5.vip.prod.criteo.com
+0.0.0.0 bidder.va1.vip.prod.criteo.com
 0.0.0.0 big.srax.com
 0.0.0.0 bigtime.floridacitrussports.com
 0.0.0.0 bild01.webtrekk.net
@@ -950,10 +953,13 @@
 0.0.0.0 communications.siffron.com
 0.0.0.0 communications.ypo.org
 0.0.0.0 compare.bedroomvillas.com
+0.0.0.0 compare.easyvoyage.com
+0.0.0.0 compare.flightgorilla.com
 0.0.0.0 compare.flighthub.com
 0.0.0.0 compare.fly4free.com
 0.0.0.0 compare.flyfar.ca
 0.0.0.0 compare.hotelsone.com
+0.0.0.0 compare-im.trip101.com
 0.0.0.0 compare-im.virail.com
 0.0.0.0 compare-im.zenhotels.com
 0.0.0.0 compare.jetcost.com
@@ -1825,7 +1831,9 @@
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
 0.0.0.0 gbc0.jp2.as.criteo.com
+0.0.0.0 gbc2.va.us.criteo.com
 0.0.0.0 gbc3.va.us.criteo.com
+0.0.0.0 gbc4.da.us.criteo.com
 0.0.0.0 gbc4.fr.eu.criteo.com
 0.0.0.0 gbc4.hk.as.criteo.com
 0.0.0.0 gbc4.nl.eu.criteo.com
@@ -3188,6 +3196,7 @@
 0.0.0.0 rdi.am5.vip.prod.criteo.com
 0.0.0.0 rdi.hk5.vip.prod.criteo.com
 0.0.0.0 rdi.jp2.vip.prod.criteo.com
+0.0.0.0 rdi.par.vip.prod.criteo.com
 0.0.0.0 rdi.va1.vip.prod.criteo.com
 0.0.0.0 red-by-sfr-fr.eulerian.net
 0.0.0.0 rehmann.actonservice.com
@@ -3357,6 +3366,7 @@
 0.0.0.0 static.criteo.net
 0.0.0.0 static.jp2.vip.prod.criteo.net
 0.0.0.0 static.par.vip.prod.criteo.net
+0.0.0.0 static.va1.vip.prod.criteo.net
 0.0.0.0 stats.radio-canada.ca
 0.0.0.0 str.foodnetwork.ca
 0.0.0.0 stscs.ditzo.nl
