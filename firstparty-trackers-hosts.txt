@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-21T01:57:55+01:00
+# List generation date: 2021-12-22T02:07:29+01:00
 # Oldest record: 2021-12-17T01:04:33+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1294732
+# Number of source DNS records: ~2E9 + 1293904
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 3492, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 2481, zones: 48
-# Output rules: hostnames: 3492
+# Subsequent rules: asns: 6, hostnames: 3500, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 2486, zones: 48
+# Output rules: hostnames: 3500
 #
 
 0.0.0.0 01net.eulerian.net
@@ -672,6 +672,7 @@
 0.0.0.0 cas.criteo.com
 0.0.0.0 caseking01.wt-eu02.net
 0.0.0.0 cas.eu.criteo.com
+0.0.0.0 cas.hk5.vip.prod.criteo.com
 0.0.0.0 cas.jp2.vip.prod.criteo.com
 0.0.0.0 cas.par.vip.prod.criteo.com
 0.0.0.0 cas.us.criteo.com
@@ -893,6 +894,7 @@
 0.0.0.0 cmp.computerworld.com.au
 0.0.0.0 cmp.csoonline.com
 0.0.0.0 cmp.digitalartsonline.co.uk
+0.0.0.0 cmp.edinburghnews.scotsman.com
 0.0.0.0 cmp.inews.co.uk
 0.0.0.0 cmp.infoworld.com
 0.0.0.0 cmp.itworld.com
@@ -956,6 +958,7 @@
 0.0.0.0 compare.easyvoyage.com
 0.0.0.0 compare.flightgorilla.com
 0.0.0.0 compare.flighthub.com
+0.0.0.0 compare.flightnetwork.com
 0.0.0.0 compare.fly4free.com
 0.0.0.0 compare.flyfar.ca
 0.0.0.0 compare.hotelsone.com
@@ -1831,6 +1834,8 @@
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
 0.0.0.0 gbc0.jp2.as.criteo.com
+0.0.0.0 gbc1.nl.eu.criteo.com
+0.0.0.0 gbc2.hk.as.criteo.com
 0.0.0.0 gbc2.va.us.criteo.com
 0.0.0.0 gbc3.va.us.criteo.com
 0.0.0.0 gbc4.da.us.criteo.com
@@ -2461,6 +2466,7 @@
 0.0.0.0 go.magellanhealth.com
 0.0.0.0 go.maglin.com
 0.0.0.0 go.magmfg.com
+0.0.0.0 go.magnetforensics.com
 0.0.0.0 go.magnolia-medical.com
 0.0.0.0 go.maground.com
 0.0.0.0 go.mainline.com
@@ -3363,6 +3369,7 @@
 0.0.0.0 sstats.optionsxpress.com
 0.0.0.0 sstats.vizergy.com
 0.0.0.0 ssy7.destinia.com.ua
+0.0.0.0 static.am5.vip.prod.criteo.net
 0.0.0.0 static.criteo.net
 0.0.0.0 static.jp2.vip.prod.criteo.net
 0.0.0.0 static.par.vip.prod.criteo.net
@@ -3378,6 +3385,7 @@
 0.0.0.0 taxi.com.102.122.2o7.net
 0.0.0.0 tdep.bunzlonline.nl
 0.0.0.0 tdep.growwwdigital.com
+0.0.0.0 tdep.mijnurgentie.nl
 0.0.0.0 tdep.statempire.nl
 0.0.0.0 tdep.suncamp.be
 0.0.0.0 tdep.suncamp.ch
