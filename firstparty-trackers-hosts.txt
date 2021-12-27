@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-26T05:25:52+01:00
+# List generation date: 2021-12-27T01:47:12+01:00
 # Oldest record: 2021-12-24T01:04:05+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1299098
+# Number of source DNS records: ~2E9 + 1300366
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14003, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11849, zones: 48
-# Output rules: hostnames: 14003
+# Subsequent rules: asns: 6, hostnames: 14016, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11859, zones: 48
+# Output rules: hostnames: 14016
 #
 
 0.0.0.0 01net.eulerian.net
@@ -390,6 +390,7 @@
 0.0.0.0 adb-secured.kijk.nl
 0.0.0.0 adc.emp.co.uk
 0.0.0.0 adc.emp.de
+0.0.0.0 adclear.baur.de
 0.0.0.0 adc.xxxlshop.de
 0.0.0.0 ad.danawa.com
 0.0.0.0 add.barkleyus.com
@@ -891,6 +892,7 @@
 0.0.0.0 boucou.fr
 0.0.0.0 bounce.mail.lifemiles.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
+0.0.0.0 box.bossdata.be
 0.0.0.0 boydgaming.com.102.112.2o7.net
 0.0.0.0 b.par.vip.prod.criteo.com
 0.0.0.0 bpe2.destinia.co.il
@@ -1031,6 +1033,7 @@
 0.0.0.0 cc.pennstatehealth.org
 0.0.0.0 ccs.postaffiliatepro.com
 0.0.0.0 cdb.cbtrk.net
+0.0.0.0 cdn4.crindel.nl
 0.0.0.0 cdn.4patientcare.com
 0.0.0.0 cdn7.baunetz.de
 0.0.0.0 cdn.campaigns.affinionservices.com
@@ -1320,6 +1323,7 @@
 0.0.0.0 compare.bedroomvillas.com
 0.0.0.0 compare.biletyplus.ru
 0.0.0.0 compare.flightgorilla.com
+0.0.0.0 compare.flighthub.com
 0.0.0.0 compare.flyfar.ca
 0.0.0.0 compare.hotelsone.com
 0.0.0.0 compare-im.ostrovok.ru
@@ -1328,10 +1332,12 @@
 0.0.0.0 compare-im.zenhotels.com
 0.0.0.0 compare.jetcost.com
 0.0.0.0 compare.justfly.com
+0.0.0.0 compare.liligo.com
 0.0.0.0 compare.minube.com
 0.0.0.0 compare.rentbyowner.com
 0.0.0.0 compare.reservations.com
 0.0.0.0 compare.routard.com
+0.0.0.0 compare.studentuniverse.com
 0.0.0.0 compare.travelata.ru
 0.0.0.0 compare.traveldealcomparisons.com
 0.0.0.0 compare.tripcanvas.co
@@ -1381,6 +1387,7 @@
 0.0.0.0 consent.express.de
 0.0.0.0 consent.hamhigh.co.uk
 0.0.0.0 consent.hertsad.co.uk
+0.0.0.0 consent.ipswichstar.co.uk
 0.0.0.0 consent.islingtongazette.co.uk
 0.0.0.0 consent.ksta.de
 0.0.0.0 consent.mopo.de
@@ -1566,6 +1573,7 @@
 0.0.0.0 data-sparkasse-at.wt-eu02.net
 0.0.0.0 data.ubi.com
 0.0.0.0 data-vdi-wissen01.wt-eu02.net
+0.0.0.0 data.volksfreund.de
 0.0.0.0 data.wptag.net
 0.0.0.0 dbmyvl.apartmentfinder.com
 0.0.0.0 dbpbyh.americanas.com.br
@@ -1855,6 +1863,7 @@
 0.0.0.0 ebs.am5.vip.prod.criteo.com
 0.0.0.0 ebs.criteo.com
 0.0.0.0 ebs.da1.vip.prod.criteo.com
+0.0.0.0 ebs.hk5.vip.prod.criteo.com
 0.0.0.0 ebs.par.vip.prod.criteo.com
 0.0.0.0 ebs.va1.vip.prod.criteo.com
 0.0.0.0 ecards01.webtrekk.net
@@ -2723,6 +2732,7 @@
 0.0.0.0 gbc0.hk.as.criteo.com
 0.0.0.0 gbc0.va.us.criteo.com
 0.0.0.0 gbc1.da.us.criteo.com
+0.0.0.0 gbc1.fr.eu.criteo.com
 0.0.0.0 gbc1.hk.as.criteo.com
 0.0.0.0 gbc1.va.us.criteo.com
 0.0.0.0 gbc2.da.us.criteo.com
@@ -2805,6 +2815,7 @@
 0.0.0.0 gjr5.yoigo.com
 0.0.0.0 gkfdkf.jdsports.co.uk
 0.0.0.0 gksqdt.reitmans.com
+0.0.0.0 gkz4.pepephone.com
 0.0.0.0 gl01.eulerian.net
 0.0.0.0 gl02.eulerian.net
 0.0.0.0 gl03.eulerian.net
@@ -13503,6 +13514,7 @@
 0.0.0.0 tdep.suncamp.pl
 0.0.0.0 tdep.sunnycamp.dk
 0.0.0.0 tdep.teamnijhuis.com
+0.0.0.0 tdep.theofficeservice.com
 0.0.0.0 tdf1.admyjob.com
 0.0.0.0 tdf1.vente-unique.pt
 0.0.0.0 telecolumbus01.webtrekk.net
@@ -13645,6 +13657,7 @@
 0.0.0.0 vjh4.hellokanariszigetek.com
 0.0.0.0 vmlb.belleaunaturel.fr
 0.0.0.0 vnumedia01.webtrekk.net
+0.0.0.0 volksfreund01.wt-eu02.net
 0.0.0.0 volusion.idexperts-notification.info
 0.0.0.0 v.oui.sncf
 0.0.0.0 voyage-prive-co-uk.eulerian.net
