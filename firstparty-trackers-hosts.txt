@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-27T01:47:12+01:00
+# List generation date: 2021-12-28T01:56:20+01:00
 # Oldest record: 2021-12-24T01:04:05+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1300366
+# Number of source DNS records: ~2E9 + 1300769
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14016, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11859, zones: 48
-# Output rules: hostnames: 14016
+# Subsequent rules: asns: 6, hostnames: 14020, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11861, zones: 48
+# Output rules: hostnames: 14020
 #
 
 0.0.0.0 01net.eulerian.net
@@ -1324,6 +1324,7 @@
 0.0.0.0 compare.biletyplus.ru
 0.0.0.0 compare.flightgorilla.com
 0.0.0.0 compare.flighthub.com
+0.0.0.0 compare.flightnetwork.com
 0.0.0.0 compare.flyfar.ca
 0.0.0.0 compare.hotelsone.com
 0.0.0.0 compare-im.ostrovok.ru
@@ -1338,6 +1339,7 @@
 0.0.0.0 compare.reservations.com
 0.0.0.0 compare.routard.com
 0.0.0.0 compare.studentuniverse.com
+0.0.0.0 compare.teletextholidays.co.uk
 0.0.0.0 compare.travelata.ru
 0.0.0.0 compare.traveldealcomparisons.com
 0.0.0.0 compare.tripcanvas.co
@@ -2741,10 +2743,12 @@
 0.0.0.0 gbc2.nl.eu.criteo.com
 0.0.0.0 gbc2.va.us.criteo.com
 0.0.0.0 gbc3.da.us.criteo.com
+0.0.0.0 gbc3.fr.eu.criteo.com
 0.0.0.0 gbc3.hk.as.criteo.com
 0.0.0.0 gbc3.va.us.criteo.com
 0.0.0.0 gbc4.da.us.criteo.com
 0.0.0.0 gbc4.hk.as.criteo.com
+0.0.0.0 gbc4.nl.eu.criteo.com
 0.0.0.0 gbc4.va.us.criteo.com
 0.0.0.0 gbc5.da.us.criteo.com
 0.0.0.0 gbc5.hk.as.criteo.com
