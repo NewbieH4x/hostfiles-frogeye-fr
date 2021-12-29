@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-28T01:56:20+01:00
+# List generation date: 2021-12-29T01:55:31+01:00
 # Oldest record: 2021-12-24T01:04:05+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1300769
+# Number of source DNS records: ~2E9 + 1298035
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14020, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11861, zones: 48
-# Output rules: hostnames: 14020
+# Subsequent rules: asns: 6, hostnames: 14025, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11862, zones: 48
+# Output rules: hostnames: 14025
 #
 
 0.0.0.0 01net.eulerian.net
@@ -1797,6 +1797,7 @@
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dynamic.da1.vip.prod.criteo.com
 0.0.0.0 dynamic.hk5.vip.prod.criteo.com
+0.0.0.0 dynamic.par.vip.prod.criteo.com
 0.0.0.0 dynamic.va1.vip.prod.criteo.com
 0.0.0.0 e2.hazeldenbettyford.org
 0.0.0.0 e3rd01.eulerian.net
@@ -2752,8 +2753,10 @@
 0.0.0.0 gbc4.va.us.criteo.com
 0.0.0.0 gbc5.da.us.criteo.com
 0.0.0.0 gbc5.hk.as.criteo.com
+0.0.0.0 gbc5.nl.eu.criteo.com
 0.0.0.0 gbc5.va.us.criteo.com
 0.0.0.0 gbc6.da.us.criteo.com
+0.0.0.0 gbc6.fr.eu.criteo.com
 0.0.0.0 gbc6.hk.as.criteo.com
 0.0.0.0 gbc6.va.us.criteo.com
 0.0.0.0 gbc7.da.us.criteo.com
@@ -2790,6 +2793,7 @@
 0.0.0.0 geoproxy.am5.vip.prod.criteo.net
 0.0.0.0 geoproxy.criteo.net
 0.0.0.0 geoproxy.par.vip.prod.criteo.net
+0.0.0.0 geoproxy.va1.vip.prod.criteo.net
 0.0.0.0 gerryweb02.webtrekk.net
 0.0.0.0 get.anthem.com
 0.0.0.0 get.diamanti.com
@@ -7155,6 +7159,7 @@
 0.0.0.0 mta-sts.mail.wt-eu02.net
 0.0.0.0 mucmail01.bluehornet.com
 0.0.0.0 mud4.destinia.com.eg
+0.0.0.0 mug.am5.vip.prod.criteo.com
 0.0.0.0 mug.criteo.com
 0.0.0.0 mug.da1.vip.prod.criteo.com
 0.0.0.0 mug.hk5.vip.prod.criteo.com
