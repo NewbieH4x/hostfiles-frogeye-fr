@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2021-12-30T01:47:32+01:00
+# List generation date: 2021-12-31T01:59:30+01:00
 # Oldest record: 2021-12-24T01:04:05+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1302561
+# Number of source DNS records: ~2E9 + 1297871
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14026, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11862, zones: 48
-# Output rules: hostnames: 14026
+# Subsequent rules: asns: 6, hostnames: 14030, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11863, zones: 48
+# Output rules: hostnames: 14030
 #
 
 0.0.0.0 01net.eulerian.net
@@ -1325,6 +1325,7 @@
 0.0.0.0 compare.flightgorilla.com
 0.0.0.0 compare.flighthub.com
 0.0.0.0 compare.flightnetwork.com
+0.0.0.0 compare.fly4free.com
 0.0.0.0 compare.flyfar.ca
 0.0.0.0 compare.hotelsone.com
 0.0.0.0 compare-im.ostrovok.ru
@@ -2732,7 +2733,9 @@
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
 0.0.0.0 gbc0.da.us.criteo.com
+0.0.0.0 gbc0.fr.eu.criteo.com
 0.0.0.0 gbc0.hk.as.criteo.com
+0.0.0.0 gbc0.nl.eu.criteo.com
 0.0.0.0 gbc0.va.us.criteo.com
 0.0.0.0 gbc1.da.us.criteo.com
 0.0.0.0 gbc1.fr.eu.criteo.com
@@ -7164,6 +7167,7 @@
 0.0.0.0 mug.criteo.com
 0.0.0.0 mug.da1.vip.prod.criteo.com
 0.0.0.0 mug.hk5.vip.prod.criteo.com
+0.0.0.0 mug.par.vip.prod.criteo.com
 0.0.0.0 mug.va1.vip.prod.criteo.com
 0.0.0.0 multimedia-e-leclerc-com.eulerian.net
 0.0.0.0 mutualofomahaemail.com
