@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2022-01-02T01:46:24+01:00
+# List generation date: 2022-01-03T01:53:28+01:00
 # Oldest record: 2021-12-31T01:04:48+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1300305
+# Number of source DNS records: ~2E9 + 1297145
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 13992, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11836, zones: 48
-# Output rules: hostnames: 13992
+# Subsequent rules: asns: 6, hostnames: 14010, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11851, zones: 48
+# Output rules: hostnames: 14010
 #
 
 0.0.0.0 01net.eulerian.net
@@ -463,6 +463,7 @@
 0.0.0.0 affiliates.advertisingboost.com
 0.0.0.0 affiliates.drbrighten.com
 0.0.0.0 affiliates.purevpn.com
+0.0.0.0 affiliates.risewithjon.com
 0.0.0.0 affiliates.thermoworks.com
 0.0.0.0 affiliates.ultimatebundles.com
 0.0.0.0 affiliates.wegow.com
@@ -835,6 +836,7 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.da1.vip.prod.criteo.com
 0.0.0.0 bidder.hk5.vip.prod.criteo.com
+0.0.0.0 bidder.jp2.vip.prod.criteo.com
 0.0.0.0 bidder.par.vip.prod.criteo.com
 0.0.0.0 bidder.va1.vip.prod.criteo.com
 0.0.0.0 big.srax.com
@@ -890,6 +892,7 @@
 0.0.0.0 boucou.fr
 0.0.0.0 bounce.mail.lifemiles.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
+0.0.0.0 box.bossdata.be
 0.0.0.0 boydgaming.com.102.112.2o7.net
 0.0.0.0 b.par.vip.prod.criteo.com
 0.0.0.0 bpe2.destinia.co.il
@@ -1318,16 +1321,23 @@
 0.0.0.0 communications.ypo.org
 0.0.0.0 compaid.aosag.net
 0.0.0.0 compare.bedroomvillas.com
+0.0.0.0 compare.easyvoyage.com
 0.0.0.0 compare.flighthub.com
 0.0.0.0 compare.fly4free.com
+0.0.0.0 compare.hotelsone.com
 0.0.0.0 compare-im.ostrovok.ru
 0.0.0.0 compare-im.virail.com
 0.0.0.0 compare-im.zenhotels.com
 0.0.0.0 compare.jetcost.com
 0.0.0.0 compare.justfly.com
+0.0.0.0 compare.liligo.com
 0.0.0.0 compare.rentbyowner.com
 0.0.0.0 compare.reservations.com
+0.0.0.0 compare.routard.com
+0.0.0.0 compare.studentuniverse.com
 0.0.0.0 compare.traveldealcomparisons.com
+0.0.0.0 compare.tripcanvas.co
+0.0.0.0 compare.triphobo.com
 0.0.0.0 compare.volaris.com
 0.0.0.0 compteczam-fr.eulerian.net
 0.0.0.0 comptoirdescotionniers-com.eulerian.net
@@ -1846,6 +1856,7 @@
 0.0.0.0 ebase01.wt-eu02.net
 0.0.0.0 ebc1.capifrance.fr
 0.0.0.0 eb.informabi.com
+0.0.0.0 ebs.am5.vip.prod.criteo.com
 0.0.0.0 ebs.criteo.com
 0.0.0.0 ebs.da1.vip.prod.criteo.com
 0.0.0.0 ebs.jp2.vip.prod.criteo.com
@@ -3304,6 +3315,7 @@
 0.0.0.0 go.innovativesystems.com
 0.0.0.0 go.innovyze.com
 0.0.0.0 go.insightmobiledata.com
+0.0.0.0 go.insightsoftware.com
 0.0.0.0 go.insitesoft.com
 0.0.0.0 go.in-situ.com
 0.0.0.0 go.intapp.com
@@ -3361,6 +3373,7 @@
 0.0.0.0 go.kuebix.com
 0.0.0.0 go.kurzweiledu.com
 0.0.0.0 go.kvie.org
+0.0.0.0 go.kwiktag.com
 0.0.0.0 go.lab-aids.com
 0.0.0.0 go.lakeshorelearning.com
 0.0.0.0 go.lamar.com
@@ -3991,6 +4004,7 @@
 0.0.0.0 hornbach-02.wt-eu02.net
 0.0.0.0 hoseyy.prettylittlething.com
 0.0.0.0 host11.traffic-builders.com
+0.0.0.0 host11.vrgamehouse-arena.nl
 0.0.0.0 host11.vrgamehouse.nl
 0.0.0.0 host12.onmodus.com
 0.0.0.0 hotelde01.webtrekk.net
@@ -7136,6 +7150,7 @@
 0.0.0.0 mug.criteo.com
 0.0.0.0 mug.da1.vip.prod.criteo.com
 0.0.0.0 mug.hk5.vip.prod.criteo.com
+0.0.0.0 mug.par.vip.prod.criteo.com
 0.0.0.0 mug.va1.vip.prod.criteo.com
 0.0.0.0 multimedia-e-leclerc-com.eulerian.net
 0.0.0.0 mutualofomahaemail.com
@@ -10981,6 +10996,7 @@
 0.0.0.0 s4.centrumparkeren.nl
 0.0.0.0 s4e8.flowrette.com
 0.0.0.0 s4.parkeren-amsterdam.com
+0.0.0.0 s4.parkerenarnhem.nl
 0.0.0.0 s4.parkeren-denbosch.nl
 0.0.0.0 s4.parkeren-haarlem.nl
 0.0.0.0 s4.parkeren-maastricht.nl
@@ -11084,6 +11100,7 @@
 0.0.0.0 shoepassion01.webtrekk.net
 0.0.0.0 shopilgazzettinoitalia01.wt-eu02.net
 0.0.0.0 shoppydooitalia01.wt-eu02.net
+0.0.0.0 sig.ig.ig.com
 0.0.0.0 sji7.heikanarioyene.com
 0.0.0.0 sk01.eulerian.net
 0.0.0.0 sk02.eulerian.net
@@ -13490,6 +13507,7 @@
 0.0.0.0 tdep.suncamp.nl
 0.0.0.0 tdep.suncamp.pl
 0.0.0.0 tdep.sunnycamp.dk
+0.0.0.0 tdep.teamnijhuis.com
 0.0.0.0 tdep.theofficeservice.com
 0.0.0.0 tdf1.admyjob.com
 0.0.0.0 tdf1.vente-unique.pt
