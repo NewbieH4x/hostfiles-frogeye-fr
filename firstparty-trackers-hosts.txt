@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2022-01-04T01:52:13+01:00
+# List generation date: 2022-01-05T01:57:07+01:00
 # Oldest record: 2021-12-31T01:04:48+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1296687
+# Number of source DNS records: ~2E9 + 1295041
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14022, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11860, zones: 48
-# Output rules: hostnames: 14022
+# Subsequent rules: asns: 6, hostnames: 14025, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11861, zones: 48
+# Output rules: hostnames: 14025
 #
 
 0.0.0.0 01net.eulerian.net
@@ -1338,6 +1338,7 @@
 0.0.0.0 compare.reservations.com
 0.0.0.0 compare.routard.com
 0.0.0.0 compare.studentuniverse.com
+0.0.0.0 compare.teletextholidays.co.uk
 0.0.0.0 compare.travelata.ru
 0.0.0.0 compare.traveldealcomparisons.com
 0.0.0.0 compare.tripcanvas.co
@@ -1866,6 +1867,7 @@
 0.0.0.0 ebs.da1.vip.prod.criteo.com
 0.0.0.0 ebs.hk5.vip.prod.criteo.com
 0.0.0.0 ebs.jp2.vip.prod.criteo.com
+0.0.0.0 ebs.par.vip.prod.criteo.com
 0.0.0.0 ebs.va1.vip.prod.criteo.com
 0.0.0.0 ecards01.webtrekk.net
 0.0.0.0 ecdn01.eulerian.net
@@ -2748,6 +2750,7 @@
 0.0.0.0 gbc4.hk.as.criteo.com
 0.0.0.0 gbc4.va.us.criteo.com
 0.0.0.0 gbc5.da.us.criteo.com
+0.0.0.0 gbc5.fr.eu.criteo.com
 0.0.0.0 gbc5.hk.as.criteo.com
 0.0.0.0 gbc5.va.us.criteo.com
 0.0.0.0 gbc6.da.us.criteo.com
