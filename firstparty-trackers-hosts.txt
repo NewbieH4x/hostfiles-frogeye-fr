@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2022-01-05T01:57:07+01:00
+# List generation date: 2022-01-06T01:50:01+01:00
 # Oldest record: 2021-12-31T01:04:48+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1295041
+# Number of source DNS records: ~2E9 + 1297594
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14025, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11861, zones: 48
-# Output rules: hostnames: 14025
+# Subsequent rules: asns: 6, hostnames: 14028, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11863, zones: 48
+# Output rules: hostnames: 14028
 #
 
 0.0.0.0 01net.eulerian.net
@@ -1326,6 +1326,7 @@
 0.0.0.0 compare.flighthub.com
 0.0.0.0 compare.flightnetwork.com
 0.0.0.0 compare.fly4free.com
+0.0.0.0 compare.flyfar.ca
 0.0.0.0 compare.hotelsone.com
 0.0.0.0 compare-im.ostrovok.ru
 0.0.0.0 compare-im.virail.com
@@ -2734,6 +2735,7 @@
 0.0.0.0 gbc0.da.us.criteo.com
 0.0.0.0 gbc0.fr.eu.criteo.com
 0.0.0.0 gbc0.hk.as.criteo.com
+0.0.0.0 gbc0.nl.eu.criteo.com
 0.0.0.0 gbc0.va.us.criteo.com
 0.0.0.0 gbc1.da.us.criteo.com
 0.0.0.0 gbc1.fr.eu.criteo.com
@@ -3071,6 +3073,7 @@
 0.0.0.0 go.cnm.edu
 0.0.0.0 go.cnr.com
 0.0.0.0 go.codaworx.com
+0.0.0.0 go.coherent.com
 0.0.0.0 go.collegeforamerica.org
 0.0.0.0 go.columbusregion.com
 0.0.0.0 go.commercehub.com
