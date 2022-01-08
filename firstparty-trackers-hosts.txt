@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.3-18-g29cf72a
-# List generation date: 2022-01-07T01:51:48+01:00
-# Oldest record: 2021-12-31T01:04:48+01:00
+# List generation date: 2022-01-08T05:25:38+01:00
+# Oldest record: 2021-12-31T14:30:24+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1298531
+# Number of source DNS records: ~2E9 + 1299755
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14031, ip4s: 64, zones: 48
+# Subsequent rules: asns: 6, hostnames: 14039, ip4s: 64, zones: 48
 # … no dupplicates: asns: 6, hostnames: 11864, zones: 48
-# Output rules: hostnames: 14031
+# Output rules: hostnames: 14039
 #
 
 0.0.0.0 01net.eulerian.net
@@ -1028,7 +1028,14 @@
 0.0.0.0 cbs.hb-api.omtrdc.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cbudejovice01.webtrekk.net
+0.0.0.0 cc01.eulerian.net
+0.0.0.0 cc02.eulerian.net
+0.0.0.0 cc03.eulerian.net
+0.0.0.0 cc04.eulerian.net
+0.0.0.0 cc05.eulerian.net
+0.0.0.0 cc06.eulerian.net
 0.0.0.0 ccc01.wt-eu02.net
+0.0.0.0 cc.eulerian.net
 0.0.0.0 ccmd.coveredca.com
 0.0.0.0 cc.pennstatehealth.org
 0.0.0.0 ccs.postaffiliatepro.com
@@ -1323,6 +1330,7 @@
 0.0.0.0 compare.bedroomvillas.com
 0.0.0.0 compare.biletyplus.ru
 0.0.0.0 compare.easyvoyage.com
+0.0.0.0 compare.flightgorilla.com
 0.0.0.0 compare.flighthub.com
 0.0.0.0 compare.flightnetwork.com
 0.0.0.0 compare.fly4free.com
@@ -1336,7 +1344,6 @@
 0.0.0.0 compare.liligo.com
 0.0.0.0 compare.loli-pop.co.uk
 0.0.0.0 compare.minube.com
-0.0.0.0 compare.rentbyowner.com
 0.0.0.0 compare.reservations.com
 0.0.0.0 compare.routard.com
 0.0.0.0 compare.studentuniverse.com
@@ -2749,6 +2756,7 @@
 0.0.0.0 gbc2.va.us.criteo.com
 0.0.0.0 gbc3.da.us.criteo.com
 0.0.0.0 gbc3.hk.as.criteo.com
+0.0.0.0 gbc3.nl.eu.criteo.com
 0.0.0.0 gbc3.va.us.criteo.com
 0.0.0.0 gbc4.da.us.criteo.com
 0.0.0.0 gbc4.hk.as.criteo.com
